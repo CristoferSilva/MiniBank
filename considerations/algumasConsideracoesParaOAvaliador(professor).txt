@@ -1,0 +1,13 @@
+Algumas considerações
+
+Prezado professor, há algumas funções em minha classe clientsDataBase e tabelas em meu Banco de dados
+que não estão sendo usadas. Essas são algumas implementações que farei no futuro. Quero aprimorar
+meu sistema. Por exemplo, tenho uma tabela de boletos bancários para permitir o cliente realizar pagamentos.
+Também tenho uma tabela para funcionários onde um gerente poderia demitir, dar um aumento.
+
+Nesta versão do sistema, para fazer o log in precisa ser um usuário já cadastrado. Nesta pasta
+tem um arquivo chamado loginClientExemplo.txt que contém o login de um cliente. Será
+necessário para a entrada no sistema.
+
+
+Atenciosamente, Cristofer Silva. 
