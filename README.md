@@ -1,5 +1,5 @@
-# Projeto MiniBanco
-Este é um mini sistema para realizar algumas operações. Para acessar, o cliente precisa estar cadastrado no banco de dados.
+# MiniBank Project
+This is a mini system for performing some operations. To access it, the client must be registered in the database.
 
-# Sobre o desenvolvimento
-O banco de dados utilizado foi o mariadb e para interface gráfica foi utilizado java swing.
+# About the development
+The database used was mariadb and for the graphical interface java swing was used.
